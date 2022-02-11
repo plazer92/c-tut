@@ -5,7 +5,7 @@ int main() {
 	x += 1;
 	std::cout << x;
 
-
+	std::cout << "FOX";
 
 	return 0;
 }
