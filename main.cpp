@@ -6,6 +6,7 @@ int main() {
 	std::cout << x;
 
 	std::cout << "FOX";
+	std::cout << "DOG";
 
 	return 0;
 }
