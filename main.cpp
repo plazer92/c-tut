@@ -7,6 +7,8 @@ int main() {
 
 	std::cout << "FOX";
 	std::cout << "DOG";
+	//Some explanation
+	
 
 	return 0;
 }
